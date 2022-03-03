@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Style helper\n"
+"POT-Creation-Date: 2021-05-25 10:14+0300\n"
+"PO-Revision-Date: 2021-05-25 10:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style-helper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: functions/misc.php:32
+msgid "No icon"
+msgstr "Ei kuvaketta"
+
+#: inc/admin/adminbar.php:68
+#, php-format
+msgid "Environment: %s"
+msgstr "Ympäristö: %s"
+
+#: inc/admin/autodescription.php:64
+msgid "The SEO Framework options reset is probably needed."
+msgstr ""
+
+#: inc/admin/autodescription.php:65
+msgid ""
+"Do NOT reset the settings if site is in production or settings have been "
+"already changed!"
+msgstr ""
+
+#: inc/admin/autodescription.php:66
+#, fuzzy
+#| msgid ""
+#| "Help Scout Beacon is not configured. Please contact your agency to fix "
+#| "this issue."
+msgid "In that case, please contact your agency to fix this issue."
+msgstr ""
+"Help Scout Beacon ei ole määritetty. Ota yhteyttä digitoimistoosi tämän "
+"ongelman korjaamiseksi."
+
+#: inc/admin/help-widget.php:31
+msgid "Updates from Dude"
+msgstr "Päivityksiä Dudelta"
+
+#: inc/admin/help-widget.php:66
+msgid "Error while fetching data."
+msgstr "Virhe noudettaessa tietoja."
+
+#: inc/admin/helpscout.php:62
+msgid "Help request"
+msgstr "Tukipyyntö"
+
+#: inc/admin/helpscout.php:63
+msgid "Do you need help?"
+msgstr "Ongelmia sivuston kanssa?"
+
+#: inc/admin/helpscout.php:64 inc/admin/helpscout.php:78
+msgid "Dude user support"
+msgstr "Duden käyttötuki"
+
+#: inc/admin/helpscout.php:65 inc/admin/helpscout.php:73
+msgid "How can we help?"
+msgstr "Miten voimme auttaa?"
+
+#: inc/admin/helpscout.php:66 inc/admin/helpscout.php:80
+msgid "Our support team will respond to you on next working day at latest"
+msgstr "Käyttötukitiimi vastaa sinulle viimeistään seuraavana työpäivänä"
+
+#: inc/admin/helpscout.php:67
+msgid "Continue writing…"
+msgstr "Jatka kirjoittamista…"
+
+#: inc/admin/helpscout.php:68
+msgid "Last updated"
+msgstr "Päivitetty"
+
+#: inc/admin/helpscout.php:69
+msgid "You"
+msgstr "Sinä"
+
+#: inc/admin/helpscout.php:70
+msgid "Name"
+msgstr "Nimi"
+
+#: inc/admin/helpscout.php:71
+msgid "Subject"
+msgstr "Aihe"
+
+#: inc/admin/helpscout.php:72
+msgid "Email address"
+msgstr "Sähköpostiosoite"
+
+#: inc/admin/helpscout.php:74
+msgid "Send support request"
+msgstr "Lähetä tukipyyntö"
+
+#: inc/admin/helpscout.php:75
+msgid "Next"
+msgstr "Seuraava"
+
+#: inc/admin/helpscout.php:76
+msgid "We’re on it!"
+msgstr "Viesti vastaanotettu!"
+
+#: inc/admin/helpscout.php:77
+msgid "You’ll receive an reply shortly."
+msgstr "Vastaamme sinulle pian."
+
+#: inc/admin/helpscout.php:79
+msgid "You can view and update your message in"
+msgstr "Voit tarkastella ja päivittää tukipyyntöjäsi"
+
+#: inc/admin/helpscout.php:81
+msgid "Previous Conversations"
+msgstr "Aiemmat tukipyynnöt"
+
+#: inc/admin/helpscout.php:82
+msgid "Email"
+msgstr "Sähköposti"
+
+#: inc/admin/helpscout.php:83
+msgid "Send message to our support team"
+msgstr "Lähetä viesti käyttötukeen"
+
+#: inc/admin/helpscout.php:84
+msgid "Add a reply"
+msgstr "Vastaa"
+
+#: inc/admin/helpscout.php:85
+msgid "Add your message here..."
+msgstr "Viestisi…"
+
+#: inc/admin/helpscout.php:86
+msgid "Send message"
+msgstr "Lähetä viesti"
+
+#: inc/admin/helpscout.php:87
+msgid "Received"
+msgstr "Vastaanotettu"
+
+#: inc/admin/helpscout.php:88
+msgid "Waiting for an answer"
+msgstr "Odottaa vastausta"
+
+#: inc/admin/helpscout.php:89
+msgid ""
+"There was a problem retrieving this message. Please double-check your "
+"Internet connection and try again."
+msgstr ""
+"Tämän viestin noutamisessa oli ongelma. Tarkista Internet-yhteytesi ja yritä "
+"uudelleen."
+
+#: inc/admin/helpscout.php:90
+msgid "Just Now"
+msgstr "Juuri nyt"
+
+#: inc/admin/polylang.php:52
+msgid ""
+"Polylang Pro license not set or invalid. Please update the license or "
+"contact your agency to fix this issue."
+msgstr ""
+"Polylang Pron lisenssiä ei ole määritetty tai se ei kelpaa. Päivitä lisenssi "
+"tai ota yhteyttä digitoimistoosi tämän ongelman korjaamiseksi."
+
+#: inc/priority/security.php:147
+msgid ""
+"<b>Login failed.</b> Please contact your site admin or agency if you "
+"continue having problems."
+msgstr ""
+"<b>Kirjautuminen epäonnistui.</b> Ota yhteyttä sivuston ylläpitäjään tai "
+"digitoimistoon, jos sinulla on edelleen ongelmia."
+
+#: inc/priority/sendgrid.php:48
+msgid ""
+"SendGrid email delivery plugin is not active or configured. Please contact "
+"your agency to fix this issue."
+msgstr ""
+"SendGrid-sähköpostilaajennos ei ole aktiivinen tai määritetty. Ota yhteyttä "
+"digitoimistoosi tämän ongelman korjaamiseksi."
+
+#: plugin-helper.php:123
+msgid ""
+"Active theme seems not to be Style based. Some functionality of Style helper "
+"plugin may not work, since it's intended to use with Style based themes."
+msgstr ""
+"Aktiivinen teema ei näytä olevan Airiin pohjautuva. Kaikki Style helper -"
+"lisäosan ominaisuudet eivät välttämättä toimi."
+
+#: plugin-update-checker/Puc/v4p9/Plugin/Ui.php:54
+msgid "View details"
+msgstr "Tarkemmat tiedot"
+
+#: plugin-update-checker/Puc/v4p9/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "Lisätietoa %s"
+
+#: plugin-update-checker/Puc/v4p9/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "Tarkista päivitykset"
+
+#: plugin-update-checker/Puc/v4p9/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "Lisäosa %s on ajantasalla."
+
+#: plugin-update-checker/Puc/v4p9/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Uusi versio lisäosasta %s on saatavilla."
+
+#: plugin-update-checker/Puc/v4p9/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Päivityksiä ei onnistuttu hakemaan %s."
+
+#: plugin-update-checker/Puc/v4p9/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Tuntematon ilmoitus “%s” päivitystarkistuksessa"
+
+#: plugin-update-checker/Puc/v4p9/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "Ei muutoslokia saatavilla."
+
+#. Plugin Name of the plugin/theme
+msgid "Style helper"
+msgstr "Style helper"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/devbaze/style-helper"
+msgstr "https://github.com/devbaze/style-helper"
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin provides helpful functions and modifications for WordPress projects."
+msgstr ""
+"Lisäosa tarjoaa käytännöllisiä toimintoja sekä muokkaa WordPressin toimintaa."
+
+#. Author of the plugin/theme
+msgid "Benjamin Pelto"
+msgstr "Benjamin Pelto"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/devbaze"
+msgstr "https://github.com/devbaze"
+
+#~ msgid "production"
+#~ msgstr "tuotanto"
+
+#~ msgid "staging"
+#~ msgstr "staging"
+
+#~ msgid "development"
+#~ msgstr "kehitys"
+
+#~ msgid "Server status on real time"
+#~ msgstr "Palvelimen tila reaaliajassa"
+
+#~ msgid ""
+#~ "This plugin extends themes based on Style by adding useful hooks, functions "
+#~ "and basic things for WooCommerce."
+#~ msgstr ""
+#~ "This plugin extends themes based on Style by adding useful hooks, functions "
+#~ "and basic things for WooCommerce."

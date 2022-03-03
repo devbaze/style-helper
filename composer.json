@@ -1,0 +1,19 @@
+{
+  "name": "devbaze/style-helper",
+  "type": "wordpress-plugin",
+  "description": "Plugin provides helpful functions and modifications for WordPress projects.",
+  "homepage": "https://github.com/devbaze/style-helper",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "license": "GPL-3.0+",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Benjamin Pelto",
+      "email": "benjophp@gmail.com",
+      "homepage": "https://github.com/devbaze"
+    }
+  ]
+}

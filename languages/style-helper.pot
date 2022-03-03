@@ -1,0 +1,222 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Style helper\n"
+"POT-Creation-Date: 2020-02-12 15:41+0200\n"
+"PO-Revision-Date: 2020-02-12 15:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style-helper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/admin/adminbar.php:53
+msgid "production"
+msgstr ""
+
+#: inc/admin/adminbar.php:57
+msgid "staging"
+msgstr ""
+
+#: inc/admin/adminbar.php:60
+msgid "development"
+msgstr ""
+
+#: inc/admin/adminbar.php:67
+#, php-format
+msgid "Environment: %s"
+msgstr ""
+
+#: inc/admin/help-scout.php:29
+msgid "Help request"
+msgstr ""
+
+#: inc/admin/help-scout.php:30
+msgid "Do you need help?"
+msgstr ""
+
+#: inc/admin/help-scout.php:31 inc/admin/help-scout.php:45
+msgid "Dude user support"
+msgstr ""
+
+#: inc/admin/help-scout.php:32 inc/admin/help-scout.php:40
+msgid "How can we help?"
+msgstr ""
+
+#: inc/admin/help-scout.php:33 inc/admin/help-scout.php:47
+msgid "Our support team will respond to you on next working day at latest"
+msgstr ""
+
+#: inc/admin/help-scout.php:34
+msgid "Continue writing…"
+msgstr ""
+
+#: inc/admin/help-scout.php:35
+msgid "Last updated"
+msgstr ""
+
+#: inc/admin/help-scout.php:36
+msgid "You"
+msgstr ""
+
+#: inc/admin/help-scout.php:37
+msgid "Name"
+msgstr ""
+
+#: inc/admin/help-scout.php:38
+msgid "Subject"
+msgstr ""
+
+#: inc/admin/help-scout.php:39
+msgid "Email address"
+msgstr ""
+
+#: inc/admin/help-scout.php:41
+msgid "Send support request"
+msgstr ""
+
+#: inc/admin/help-scout.php:42
+msgid "Next"
+msgstr ""
+
+#: inc/admin/help-scout.php:43
+msgid "We’re on it!"
+msgstr ""
+
+#: inc/admin/help-scout.php:44
+msgid "You’ll receive an reply shortly."
+msgstr ""
+
+#: inc/admin/help-scout.php:46
+msgid "You can view and update your message in"
+msgstr ""
+
+#: inc/admin/help-scout.php:48
+msgid "Previous Conversations"
+msgstr ""
+
+#: inc/admin/help-scout.php:49
+msgid "Email"
+msgstr ""
+
+#: inc/admin/help-scout.php:50
+msgid "Send message to our support team"
+msgstr ""
+
+#: inc/admin/help-scout.php:51
+msgid "Add a reply"
+msgstr ""
+
+#: inc/admin/help-scout.php:52
+msgid "Add your message here..."
+msgstr ""
+
+#: inc/admin/help-scout.php:53
+msgid "Send message"
+msgstr ""
+
+#: inc/admin/help-scout.php:54
+msgid "Received"
+msgstr ""
+
+#: inc/admin/help-scout.php:55
+msgid "Waiting for an answer"
+msgstr ""
+
+#: inc/admin/help-scout.php:56
+msgid ""
+"There was a problem retrieving this message. Please double-check your "
+"Internet connection and try again."
+msgstr ""
+
+#: inc/admin/help-scout.php:57
+msgid "Just Now"
+msgstr ""
+
+#: inc/admin/help-widget.php:37
+msgid "Updates from Dude"
+msgstr ""
+
+#: inc/admin/help-widget.php:72
+msgid "Error while fetching data."
+msgstr ""
+
+#: inc/admin/help-widget.php:103
+msgid "Server status on real time"
+msgstr ""
+
+#: inc/priority/security.php:147
+msgid ""
+"<b>Login failed.</b> Please contact your site admin or agency if you "
+"continue having problems."
+msgstr ""
+
+#: inc/priority/sendgrid.php:48
+msgid ""
+"SendGrid email delivery plugin is not active or configured. Please contact "
+"your agency to fix this issue."
+msgstr ""
+
+#: plugin-helper.php:95
+msgid ""
+"Active theme seems not to be Style based. Some functionality of Style helper "
+"plugin may not work, since it's intended to use with Style based themes."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:358
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:405
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:407
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p1/Plugin/UpdateChecker.php:409
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p1/Vcs/PluginUpdateChecker.php:83
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Style helper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/devbaze/style-helper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin extends themes based on Style by adding useful hooks, functions "
+"and basic things for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Benjamin Pelto"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/devbaze"
+msgstr ""

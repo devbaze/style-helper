@@ -1,0 +1,21 @@
+{
+  "name": "style-helper",
+  "version": "1.0.0",
+  "description": "Plugin provides helpful functions and modifications for WordPress projects.",
+  "main": "style-helper.php",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devbaze/style-helper.git"
+  },
+  "author": "Benjamin Pelto",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/devbaze/style-helper/issues"
+  },
+  "homepage": "https://github.com/devbaze/style-helper"
+}
